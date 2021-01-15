@@ -1,1 +1,1 @@
-Ejercicio en PyGame
+Ejercicios varios en PyGame
